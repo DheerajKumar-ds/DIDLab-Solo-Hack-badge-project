@@ -1,0 +1,33 @@
+﻿{
+    "message":  {
+                    "value":  "blockchain.didlab.org wants you to sign in with your Ethereum account:\n0x3d06a9Db9275f28cecde2e235eBd8ea7d82D5066\n\nSign in to DIDLab API\n\nURI: https://blockchain.didlab.org\nVersion: 1\nChain ID: 252501\nNonce: zNVtfUHtFGc1JvQS8\nIssued At: 2025-11-05T03:05:18.024Z\r\n",
+                    "PSPath":  "C:\\Users\\dheer\\didlab-solo-hack\\siwe.txt",
+                    "PSParentPath":  "C:\\Users\\dheer\\didlab-solo-hack",
+                    "PSChildName":  "siwe.txt",
+                    "PSDrive":  {
+                                    "CurrentLocation":  "Users\\dheer\\didlab-solo-hack",
+                                    "Name":  "C",
+                                    "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                    "Root":  "C:\\",
+                                    "Description":  "OS",
+                                    "MaximumSize":  null,
+                                    "Credential":  "System.Management.Automation.PSCredential",
+                                    "DisplayRoot":  null
+                                },
+                    "PSProvider":  {
+                                       "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                       "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                       "Name":  "FileSystem",
+                                       "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                       "ModuleName":  "Microsoft.PowerShell.Core",
+                                       "Module":  null,
+                                       "Description":  "",
+                                       "Capabilities":  52,
+                                       "Home":  "C:\\Users\\dheer",
+                                       "Drives":  "C D E"
+                                   },
+                    "ReadCount":  1
+                },
+    "signature":  "[dotenv@17.2.3] injecting env (2) from .env -- tip: ΓÜÖ∩╕Å  override existing env vars with { override: true }\r\n0x420eccc78b74e503831e40f1f9710d70cfbe7701d249b3c0c2d54ec1237fa5413561270ff5ccfb4504fcbe65995a753e903ba063e4792eb3cf41f311c0e66b3f1c",
+    "address":  "0x3d06a9Db9275f28cecde2e235eBd8ea7d82D5066"
+}

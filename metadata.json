@@ -1,0 +1,19 @@
+{
+    "name":  "DIDLab Badge — Dheeraj Kumar Meesala",
+    "description":  "Solo Proof-of-Build",
+    "image":  "ipfs://QmQhobxYxeeyMyJxr36aA1RJLPaMzXp8zVVvmBamp6H7NN",
+    "attributes":  [
+                       {
+                           "trait_type":  "wallet",
+                           "value":  "REPLACE_WITH_WALLET"
+                       },
+                       {
+                           "trait_type":  "repo",
+                           "value":  "https://github.com/DheerajKumar-ds"
+                       },
+                       {
+                           "trait_type":  "author",
+                           "value":  "Dheeraj Kumar Meesala"
+                       }
+                   ]
+}
