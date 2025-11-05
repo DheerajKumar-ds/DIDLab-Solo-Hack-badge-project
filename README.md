@@ -23,12 +23,11 @@ The project flow included contract compilation, deployment, authentication via S
 | **Contract Type** | ERC-721 (NFT) |
 | **Owner Address** | `0x3d06a9Db9275f28cecde2e235eBd8ea7d82D5066` |
 | **Tokens Minted** | ID #1, #2, #3 |
+| **Mint Tx Hash** | 0x86cf496446c92972f8f9ffc39832b9822df72860f71b53a343abb8b1a34d951b|
 | **Holders** | 1 (self) |
 | **Transfers Recorded** | 3 |
 | **Token URI (IPFS)** | `ipfs://QmQGioY7eCNkimSLMuao7VcAFHxJqqe7ZyYBb384zfRQjt` |
 | **JWT Auth (SIWE)** | Successfully verified via `scripts/siwe_node.js` |
-| **Image Upload** | badge image uploaded to IPFS |
-| **Metadata Upload** | metadata.json uploaded to IPFS |
 | **IMAGE CID** | QmTRnHZVc55zyZinp77sojswmDGSjeVw7XWKmK8ivRUEHR |
 
 ---
