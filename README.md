@@ -1,16 +1,16 @@
-# 🎓 DIDLab Solo Hack — Badge Deployment Report  
+# DIDLab Solo Hack — Badge Deployment Report  
 **Author:** Dheeraj Kumar Meesala  
 **Date:** November 5, 2025  
 
 ---
 
-## 🧾 Project Overview
+## Project Overview
 This report documents the successful deployment and minting of my **DIDLab Badge** smart contract on the DIDLab test network.  
 The project flow included contract compilation, deployment, authentication via SIWE (Sign-In With Ethereum), IPFS integration for badge metadata, and minting verification on the DIDLab Explorer.
 
 ---
 
-## ⚙️ Technical Details
+## Technical Details
 
 | Parameter | Value |
 |------------|-------|
@@ -32,7 +32,7 @@ The project flow included contract compilation, deployment, authentication via S
 
 ---
 
-## 🔗 Verification on DIDLab Explorer
+## Verification on DIDLab Explorer
 **Contract Explorer URL:**  
 👉 [https://explorer.didlab.org/token/0x0D96e43e261bA9D924f9e5D9BBd7cbc1ae0Ceef3](https://explorer.didlab.org/token/0x0D96e43e261bA9D924f9e5D9BBd7cbc1ae0Ceef3)
 
@@ -44,9 +44,9 @@ The project flow included contract compilation, deployment, authentication via S
 
 ---
 
-## 🧩 Workflow Summary
+## Workflow Summary
 
-### 1️⃣ Contract Deployment
+### 1️. Contract Deployment
 The smart contract `DidLabBadgeDheeraj.sol` was compiled and deployed using Hardhat on the DIDLab network (chainId 252501).
 
 **Screenshot:**  
@@ -54,7 +54,7 @@ The smart contract `DidLabBadgeDheeraj.sol` was compiled and deployed using Hard
 
 ---
 
-### 2️⃣ SIWE Authentication
+### 2️. SIWE Authentication
 A Sign-In With Ethereum (SIWE) message was generated and signed for secure login to the DIDLab API.
 
 **Screenshot:**  
@@ -62,7 +62,7 @@ A Sign-In With Ethereum (SIWE) message was generated and signed for secure login
 
 ---
 
-### 3️⃣ JWT Token Verification
+### 3️. JWT Token Verification
 After signing the message, a JWT token was successfully issued for authenticated API interaction.
 
 **Screenshot:**  
@@ -70,7 +70,7 @@ After signing the message, a JWT token was successfully issued for authenticated
 
 ---
 
-### 4️⃣ Metadata and Token URI Setup
+### 4️. Metadata and Token URI Setup
 The badge image and metadata were uploaded to IPFS to generate a decentralized token URI.
 
 **Screenshots:**  
@@ -83,7 +83,7 @@ The badge image and metadata were uploaded to IPFS to generate a decentralized t
 
 ---
 
-### 5️⃣ NFT Minting on DIDLab
+### 5️. NFT Minting on DIDLab
 The NFT badge was successfully minted via `mintTo()` and verified on the DIDLab Explorer.  
 All tokens (#1, #2, #3) are owned by my address.
 
@@ -98,6 +98,6 @@ SIWE authentication and the Hardhat deployment pipeline worked smoothly once I l
 ---
 
 **Prepared by:**  
-👤 *Dheeraj Kumar Meesala*  
-📅 *November 4, 2025*  
-🏷️ *DIDLab Solo Hack – Badge Completion Report*
+*Dheeraj Kumar Meesala*  
+*November 4, 2025*  
+*DIDLab Solo Hack – Badge Completion Report*
